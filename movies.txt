@@ -1,0 +1,49 @@
+ception|English|Sci-Fi,Thriller,Action|13|8.8|2010|Leonardo DiCaprio
+The Dark Knight|English|Action,Crime,Drama|13|9.0|2008|Christian Bale
+Titanic|English|Romance,Drama,History|13|7.8|1997|Kate Winslet
+Coco|English|Animation,Adventure,Family|7|8.4|2017|Anthony Gonzalez
+3 Idiots|Hindi|Comedy,Drama,Education|12|8.4|2009|Aamir Khan
+Dangal|Hindi|Biography,Drama,Sport|12|8.3|2016|Aamir Khan
+Bahubali|Telugu|Action,Drama,Fantasy|14|8.0|2015|Prabhas
+Pushpa|Telugu|Action,Crime,Drama|16|7.6|2021|Allu Arjun
+Avengers Endgame|English|Action,Sci-Fi,Adventure|13|8.4|2019|Robert Downey Jr.
+Spider-Man No Way Home|English|Action,Adventure,Fantasy|13|8.3|2021|Tom Holland
+PK|Hindi|Comedy,Drama,Fantasy|10|8.2|2014|Aamir Khan
+Drishyam|Hindi|Crime,Drama,Thriller|13|8.2|2015|Ajay Devgn
+Tumbbad|Hindi|Fantasy,Horror,Thriller|16|8.2|2018|Sohum Shah
+RRR|Telugu|Action,Drama,History|14|8.0|2022|N. T. Rama Rao Jr.
+Shershaah|Hindi|War,Romance,Biography|13|8.4|2021|Sidharth Malhotra
+Bajrangi Bhaijaan|Hindi|Adventure,Comedy,Drama|10|8.1|2015|Salman Khan
+Interstellar|English|Sci-Fi,Drama,Adventure|13|8.6|2014|Matthew McConaughey
+The Prestige|English|Drama,Mystery,Sci-Fi|13|8.5|2006|Christian Bale
+Zindagi Na Milegi Dobara|Hindi|Adventure,Drama,Romance|12|8.2|2011|Hrithik Roshan
+Barfi|Hindi|Drama,Romance,Comedy|12|8.1|2012|Ranbir Kapoor
+Gully Boy|Hindi|Drama,Music,Romance|14|7.9|2019|Ranveer Singh
+Super 30|Hindi|Biography,Drama,Education|12|8.0|2019|Hrithik Roshan
+Kantara|Kannada|Action,Thriller,Fantasy|16|8.4|2022|Rishab Shetty
+KGF Chapter 1|Kannada|Action,Crime,Drama|16|8.2|2018|Yash
+KGF Chapter 2|Kannada|Action,Crime,Drama|16|8.4|2022|Yash
+Drishyam 2|Hindi|Crime,Drama,Thriller|13|8.3|2022|Ajay Devgn
+Sanju|Hindi|Biography,Drama,Comedy|13|7.8|2018|Ranbir Kapoor
+Lagaan|Hindi|Drama,History,Sport|12|8.1|2001|Aamir Khan
+Swades|Hindi|Drama,Musical,Social|10|8.2|2004|Shah Rukh Khan
+Chak De India|Hindi|Drama,Sport,Inspirational|12|8.2|2007|Shah Rukh Khan
+The Matrix|English|Action,Sci-Fi,Thriller|16|8.7|1999|Keanu Reeves
+Fight Club|English|Drama,Thriller,Crime|18|8.8|1999|Brad Pitt
+The Godfather|English|Crime,Drama,Thriller|18|9.2|1972|Marlon Brando
+Pulp Fiction|English|Crime,Drama,Thriller|18|8.9|1994|John Travolta
+Forrest Gump|English|Drama,Romance,Comedy|12|8.8|1994|Tom Hanks
+Slumdog Millionaire|English|Drama,Romance,Thriller|13|8.0|2008|Dev Patel
+The Lion King|English|Animation,Drama,Adventure|7|8.5|1994|Matthew Broderick
+Frozen|English|Animation,Family,Musical|5|7.5|2013|Kristen Bell
+Finding Nemo|English|Animation,Adventure,Family|5|8.1|2003|Albert Brooks
+The Jungle Book|English|Adventure,Family,Fantasy|7|7.4|2016|Neel Sethi
+Toy Story|English|Animation,Adventure,Comedy|5|8.3|1995|Tom Hanks
+Wall-E|English|Animation,Adventure,Sci-Fi|5|8.4|2008|Ben Burtt
+Inside Out|English|Animation,Adventure,Comedy|5|8.1|2015|Amy Poehler
+CARS|English|Animation,Comedy,Sport|5|7.1|2006|Owen Wilson
+Up|English|Animation,Adventure,Drama|5|8.2|2009|Ed Asner
+Ratatouille|English|Animation,Comedy,Family|5|8.1|2007|Patton Oswalt
+Moana|English|Animation,Adventure,Comedy|5|7.6|2016|Auli'i Cravalho
+Brave|English|Animation,Adventure,Comedy|5|7.1|2012|Kelly Macdonald
+Monsters Inc|English|Animation,Adventure,Comedy|5|8.1|2001|Billy Crystal
